@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <title>@ViewBag.Title - Film Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
 </head>
@@ -27,11 +27,17 @@
             </div>
         </div>
     </div>
+    <div class="bg-primary jumbotron jumbotron-fluid">
+        <div class="container text-center">
+            <h1 class="display-4">@ViewBag.Title</h1>
+            <p class="lead">@ViewBag.Desc</p>
+        </div>
+    </div>
     <div class="container body-content">
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            <p>&copy; @DateTime.Now.Year - Film Application</p>
         </footer>
     </div>
 
