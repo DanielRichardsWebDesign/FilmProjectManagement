@@ -29,7 +29,6 @@ C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Manage
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csprojAssemblyReference.cache
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csproj.CoreCompileInputs.cache
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csproj.CopyComplete
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.dll
