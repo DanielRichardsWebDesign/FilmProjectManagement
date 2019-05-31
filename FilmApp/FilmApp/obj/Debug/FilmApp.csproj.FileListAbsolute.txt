@@ -33,3 +33,42 @@ C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Manage
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csproj.CopyComplete
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.dll
 C:\Users\Daniel Richards\Documents\ASP.NET Test Applications\Film Project Management System\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.pdb
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\FilmApp.dll.config
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\FilmApp.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\FilmApp.pdb
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Antlr3.Runtime.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\EntityFramework.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\EntityFramework.SqlServer.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.ApplicationInsights.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.Web.Infrastructure.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Newtonsoft.Json.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Helpers.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Mvc.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Optimization.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Razor.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.WebPages.Deployment.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.WebPages.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.WebPages.Razor.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\WebGrease.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\EntityFramework.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\EntityFramework.SqlServer.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Helpers.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Mvc.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Optimization.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.Razor.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.WebPages.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.WebPages.Deployment.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Web.WebPages.Razor.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Newtonsoft.Json.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Antlr3.Runtime.pdb
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csprojResolveAssemblyReference.cache
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csproj.CoreCompileInputs.cache
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.dll
+F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.pdb
