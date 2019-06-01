@@ -8,11 +8,11 @@ using System.Web;
 using System.Web.Mvc;
 using FilmApp.Models;
 
-namespace FilmApp.Controllers
+namespace FilmApp.Views
 {
     public class UsersController : Controller
     {
-        private FilmAppContext db = new FilmAppContext();
+        private FilmDatabaseEntities db = new FilmDatabaseEntities();
 
         // GET: Users
         public ActionResult Index()

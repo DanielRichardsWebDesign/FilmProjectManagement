@@ -68,7 +68,6 @@ F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Antlr3.Runtime.pdb
 F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\System.Diagnostics.DiagnosticSource.xml
 F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 F:\Websites\FilmProjectManagement\FilmApp\FilmApp\bin\Microsoft.AI.DependencyCollector.xml
-F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csprojResolveAssemblyReference.cache
 F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.csproj.CoreCompileInputs.cache
 F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.dll
 F:\Websites\FilmProjectManagement\FilmApp\FilmApp\obj\Debug\FilmApp.pdb
